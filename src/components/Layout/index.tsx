@@ -9,11 +9,11 @@ import { Container, Wrapper } from './styles';
 const Layout: React.FC = () => {
   return (
     <Container>
-      {/*<Wrapper>
+      <Wrapper>
         <MenuBar />
         <Main />
-      <SideBar />
-      </ Wrapper>*/}
+        <SideBar />
+      </Wrapper>
     </Container>
   );
 };
